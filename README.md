@@ -1,5 +1,7 @@
 Vitamin F SMP
-1.Effect Hero_of_the_village
+1.Effect 
+1.1.Hero_of_the_village
+1.2.Strenght in the end because combat with ender dragon
 2.Mod of Server
   2.1.Falling tree and Tree Harvest
   2.2.Infinite trading
