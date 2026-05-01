@@ -17,4 +17,6 @@ Vitamin F SMP
   3.3.Daily life 
   3.4.Villager Spawn egg
   3.5.Rate of 5 Killed Enderman per 1 level
+  3.6.Minecraft version 1.14 - current
+4.System of Mechanics
   
